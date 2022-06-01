@@ -17,3 +17,15 @@
 	text-align: center;
 	margin:  40px 20px 0px 20px;
 }
+
+.container .heading
+{
+
+}
+
+.container .heading h3
+{
+	font-size: 3em;
+	font-weight: bolder;
+	border-bottom: 3px solid #222;
+}
