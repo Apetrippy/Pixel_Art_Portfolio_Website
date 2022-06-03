@@ -20,7 +20,8 @@
 
 .container .heading
 {
-
+	width: 40%;
+	padding-bottom: 50px;
 }
 
 .container .heading h3
@@ -28,4 +29,5 @@
 	font-size: 3em;
 	font-weight: bolder;
 	border-bottom: 3px solid #222;
+	padding-bottom: 10px;
 }
