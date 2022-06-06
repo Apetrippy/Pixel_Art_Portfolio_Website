@@ -50,4 +50,6 @@
 .container .box .column img
 {
 	width: 100%;
+	padding-bottom: 15px;
+	border-radius: 5px;
 }
