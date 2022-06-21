@@ -79,6 +79,6 @@
 	
 	.container .box .column
 	{
-		
+		width: 100%;
 	}
 }
