@@ -82,7 +82,7 @@ nav
 
 nav li
 {
-	
+	height: 60px;
 }
 
 @media only screen and (max-width: 769px)
