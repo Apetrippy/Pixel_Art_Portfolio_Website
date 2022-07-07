@@ -99,6 +99,14 @@ nav li a
 	transition: all .3s linear;
 }
 
+nav li a i
+{
+	position: absolute;
+	top: 17px;
+	left: 20px;
+	font-size: 27px;
+}
+
 @media only screen and (max-width: 769px)
 {
 	.container .box
