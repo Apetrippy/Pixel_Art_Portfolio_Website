@@ -104,6 +104,11 @@ nav li:nth-child(1) a
 	background: #333;
 }
 
+nav li:nth-child(2) a
+{
+	background: #1DA1F2;
+}
+
 nav li a i
 {
 	position: absolute;
