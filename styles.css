@@ -99,6 +99,11 @@ nav li a
 	transition: all .3s linear;
 }
 
+nav li:nth-child(1) a
+{
+	background: #333;
+}
+
 nav li a i
 {
 	position: absolute;
