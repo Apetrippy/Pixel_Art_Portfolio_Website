@@ -56,23 +56,6 @@
 	pointer-events: none;
 }
 
-.container .button
-{
-	margin: 40px 0px 70px 0px;
-	background: #222;
-	padding: 15px 40px;
-	border-radius: 5px;
-}
-
-.container .button a
-{
-	color: #fff;
-	font-size: 1.2em;
-	text-decoration: none;
-	font-weight: bolder;
-	letter-spacing: 3px;
-}
-
 nav
 {
 	position: fixed;
