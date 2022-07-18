@@ -8,7 +8,7 @@ Dynamic image layout:
 ![image](https://user-images.githubusercontent.com/98918017/179618020-13b79411-ac8b-459e-aef6-22facb8e4f98.png)
 
 Animated navigation icons:
-![image](https://user-images.githubusercontent.com/98918017/179618147-ea4388c4-dabe-4421-ac67-61eabb028e0d.png)
+![image](https://user-images.githubusercontent.com/98918017/179618147-ea4388c4-dabe-4421-ac67-61eabb028e0d.png)<br/>
 ![image](https://user-images.githubusercontent.com/98918017/179618083-a37c290f-4c57-4364-8656-ac66074d2e54.png)
 
 Mobile resolution support:
