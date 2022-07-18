@@ -1,6 +1,9 @@
 # About
 This project is a personal website, intended to showcase some of my digital pixel art. This website is supported for different resolutions, through the use of media queries.
 
+Deployed website:
+https://lambent-figolla-b7e4c5.netlify.app
+
 Dynamic image layout:
 ![image](https://user-images.githubusercontent.com/98918017/179618020-13b79411-ac8b-459e-aef6-22facb8e4f98.png)
 
