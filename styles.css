@@ -29,10 +29,10 @@
 	margin:  40px 20px 0px 20px;
 }
 
-.container .heading
+.container .heading .description
 {
 	width: 40%;
-	padding-bottom: 50px;
+	padding-bottom: 20px;
 }
 
 .container .heading h3
@@ -41,6 +41,12 @@
 	font-weight: bolder;
 	border-bottom: 3px solid #222;
 	padding-bottom: 10px;
+}
+
+.container .description h3
+{
+	padding: 20px;
+	white-space: nowrap;
 }
 
 .container .box
