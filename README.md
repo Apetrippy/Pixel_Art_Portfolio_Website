@@ -12,4 +12,5 @@ Animated navigation icons:<br/>
 ![image](https://user-images.githubusercontent.com/98918017/179618083-a37c290f-4c57-4364-8656-ac66074d2e54.png)
 
 Mobile resolution support:
-![image](https://user-images.githubusercontent.com/98918017/179618213-f531b2de-b2fb-4bc1-b235-e0dd76e3d2b1.png)
+![image](https://user-images.githubusercontent.com/98918017/187034673-ed8b4e0d-4847-4346-8f71-b46c25ba0660.png)
+
